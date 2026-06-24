@@ -154,4 +154,4 @@ pnpm run validate
 
 ---
 
-**Made with ❤️ by 好玩的人类观察计划团队**
+**Made with ❤️ by 好玩的人类观察计划团队（星舸）**
